@@ -20,4 +20,5 @@ public interface DemoService {
 
     String sayHello(String name);
 
+    String sayHello100s(String name);
 }
